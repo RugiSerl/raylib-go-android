@@ -1,4 +1,4 @@
-#Sat May 04 14:20:03 CEST 2024
-base.0=/home/raphael/dev/Go/android_example/android/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Thu Jul 04 14:08:19 CEST 2024
+base.0=/home/raphael/dev/Go/raylib-go-android/android/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

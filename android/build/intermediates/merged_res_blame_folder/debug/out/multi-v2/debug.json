@@ -4,7 +4,7 @@
             "outputFile": "com.example.android-merged_res-4:/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "/home/raphael/dev/Go/android_example/android/res/values/strings.xml",
+                    "source": "/home/raphael/dev/Go/raylib-go-android/android/res/values/strings.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
